@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#BDBDBD</color>
+    <color name="colorAccent">#FFEB3B</color>
+    <color name="colorPrimaryLight">#FFCCBC</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+
+    <color name="colorGreen">#29D630</color>
+    <color name="colorBlue">#1085E1</color>
+    <color name="colorOrange">#F44336</color>
+    <color name="colorMagento">#673AB7</color>
+    <color name="colorYellow">#FFC107</color>
+</resources>

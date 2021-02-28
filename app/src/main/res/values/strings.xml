@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyFlame</string>
+    <string name="email">Email Adress</string>
+    <string name="email_hint">john@examples.com</string>
+    <string name="password">Password</string>
+    <string name="password_hint">123456</string>
+    <string name="cancel">CANCEL</string>
+    <string name="login">LOGIN</string>
+    <string name="not_a_member">Not a member</string>
+    <string name="register">Register</string>
+    <string name="new_order">NEW ORDER</string>
+    <string name="new_order_hint">Create New Order</string>
+    <string name="past_order">PAST ORDERS</string>
+    <string name="past_order_hint">View Past Orders</string>
+    <string name="deliveries">DELIVERIES</string>
+    <string name="deliveries_hint">Pending Deliveries</string>
+    <string name="cancelled">Cancelled Orders</string>
+    <string name="cancelled_hint">CANCELLED</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="my_profile_hint">View My Profile</string>
+    <string name="orders">Orders</string>
+    <string name="rating">Rating</string>
+    <string name="canclled_lowercase">Cancled</string>
+</resources>
